@@ -13,6 +13,7 @@ import javax.naming.NamingException;
 // this is just to demonstrate demo
 //this is for feauteBranch comment
 //comment added by neel
+//to demostate difference between pull and rebase by Teja
  
 public class EJBTester {
  
