@@ -10,6 +10,7 @@ import java.util.Properties;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 // this is a tester class 
+// this is just to demonstrate demo
  
 public class EJBTester {
  
