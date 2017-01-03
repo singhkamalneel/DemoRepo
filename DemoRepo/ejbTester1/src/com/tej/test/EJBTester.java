@@ -11,6 +11,7 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 // this is a tester class 
 // this is just to demonstrate demo
+//this is for feauteBranch comment
  
 public class EJBTester {
  
