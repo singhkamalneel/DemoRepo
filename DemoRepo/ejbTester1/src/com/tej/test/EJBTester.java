@@ -12,6 +12,7 @@ import javax.naming.NamingException;
 // this is a tester class 
 // this is just to demonstrate demo
 //this is for feauteBranch comment
+//comment added by neel
  
 public class EJBTester {
  
