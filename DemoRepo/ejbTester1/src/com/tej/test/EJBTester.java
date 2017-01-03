@@ -17,6 +17,7 @@ import javax.naming.NamingException;
 public class EJBTester {
  
    BufferedReader brConsoleReader = null; 
+ int unusedByNeel = 1000;
    Properties props;
    InitialContext ctx;
    {
