@@ -21,6 +21,7 @@ public class EJBTester {
    BufferedReader brConsoleReader = null; 
  int unusedByNeel = 1000;
  //demo pull rebase by neel
+ //thsi is for bummyBranch
    Properties props;
    InitialContext ctx;
    {
